@@ -11,9 +11,21 @@
 
 <h2>Most interested in:</h2>
 
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="35">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="35">
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="35">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="35">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="35">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="35">
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="35">
+</a>
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="35">
+</a>
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="35">
+</a>
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="35">
+</a>
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="35">
+</a>
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="35">
+</a>
