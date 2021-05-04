@@ -1,13 +1,15 @@
-<h1>Hey Mousse</h2>
+<h1>Hey Mousse</h1>
 
-<a href="https://github.com/gabrielandm">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="20">
+<p>I am a brazilian <a href="#"><img src="img/brazil-flag.jpg" height="12"></a> software developer with knowledge in both back and front end but I prefer back-end.</p>
+<p>I am a software developer intern at Kumulus <a href="#"><img src="img/kumulus.png" height="12"></a></p>
+
+<a href="#">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielandm&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 </a>
-
-<p>I am a brazilian <img src="img/brazil-flag.jpg" height="12"> software developer with knowledge in both back and front end.</p>
-<p>I am a software developer intern at Kumulus <img src="img/kumulus.png" height="12"></p>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielandm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<br>
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandm&show_icons=true&theme=radical&langs_count=8&layout=compact">
+</a>
 
 <h2>Most interested in:</h2>
 
@@ -28,4 +30,11 @@
 </a>
 <a href="#">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="35">
+</a>
+
+<br><br>
+<h2>UwU</h2>
+<br>
+<a href="#">
+    <img src="https://media1.tenor.com/images/e4d613ee59e79b93e38ec2521cce19e4/tenor.gif?itemid=5751430">
 </a>
