@@ -1,7 +1,7 @@
 <h1>Hey Mousse</h1>
 
-<p>I am a brazilian <a href="#"><img src="img/brazil-flag.jpg" height="12"></a> software developer with knowledge in both back and front end but I prefer back-end.</p>
-<p>I am a software developer intern at Kumulus <a href="#"><img src="img/kumulus.png" height="12"></a></p>
+<p>I am a brazilian <a href="#"><img src="img/brazil-flag.jpg" height="12"></a> data scientist and with knowledge in both back and front end but I prefer back-end.</p>
+<p>I am a data scientist intern at Kumulus <a href="#"><img src="img/kumulus.png" height="12"></a></p>
 
 <a href="#">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielandm&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
